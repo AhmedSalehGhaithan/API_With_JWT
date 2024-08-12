@@ -1,0 +1,5 @@
+@Wep_API_JWT_HostAddress = http://localhost:5245
+GET {{Wep_API_JWT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
